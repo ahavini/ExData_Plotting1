@@ -1,0 +1,11 @@
+## Coursera Exploratory Data Analysis
+
+Place the png files in this folder.
+
+* Plot 1
+* Plot 2
+* Plot 3
+* Plot 4
+
+https://github.com/ahavini/ExData_Plotting1
+
