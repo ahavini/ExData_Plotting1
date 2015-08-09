@@ -2,6 +2,10 @@
 
 Place the png files in this folder.
 
+* Bring in the data:
+powerdata = read.table(unzip("exdata-data-household_power_consumption.zip"))
+head(powerdata)
+
 * Plot 1
 * Plot 2
 * Plot 3
